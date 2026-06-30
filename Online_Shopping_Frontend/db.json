@@ -1,0 +1,714 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Iphone",
+      "image": "/src/assets/PopularCategories/iphone.webp",
+      "price": "78,999",
+      "description": "Premium Apple smartphone with powerful performance, advanced camera system, and seamless iOS experience."
+    },
+    {
+      "id": "2",
+      "title": "Laptop",
+      "image": "/src/assets/PopularCategories/laptop.webp",
+      "price": "88,999",
+      "description": "High-performance laptop designed for work, creativity, and entertainment with a sleek and portable design."
+    },
+    {
+      "id": "3",
+      "title": "Motherboards",
+      "image": "/src/assets/PopularCategories/motherboards.webp",
+      "price": "18,999",
+      "description": "Essential computer component that connects and powers all hardware, supporting high-speed processors and memory."
+    },
+    {
+      "id": "4",
+      "title": "Mirrorless",
+      "image": "/src/assets/PopularCategories/camera.webp",
+      "price": "28,999",
+      "description": "Compact mirrorless camera offering professional-quality photos and videos with fast autofocus and interchangeable lenses."
+    },
+    {
+      "id": "5",
+      "title": "Headsets",
+      "price": "8,999",
+      "image": "/src/assets/PopularCategories/headset.webp",
+      "description": "Comfortable audio headsets delivering clear sound, deep bass, and noise isolation for calls, music, and gaming."
+    },
+    {
+      "id": "6",
+      "title": "Drones",
+      "image": "src/assets/PopularCategories/drones.webp",
+      "description": "Advanced flying drones equipped with high-resolution cameras and smart flight modes for aerial photography."
+    },
+    {
+      "id": "7",
+      "title": "Apple Ipad",
+      "image": "src/assets/PopularCategories/apple.webp",
+      "description": "Versatile Apple tablet with a stunning display, powerful performance, and support for Apple Pencil and accessories."
+    }
+  ],
+  "BestOffers": [
+    {
+      "title": "Apple MacBook Pro 16",
+      "subtitle": "Apple MacBook",
+      "price": "79,499",
+      "button": "Add To Cart",
+      "image": "/src/assets/BestOffers/macbook.jpeg",
+      "description": "Apple MacBook Pro 16 is a premium professional laptop powered by Apple’s advanced M-series chipset, delivering exceptional speed, smooth multitasking, and outstanding energy efficiency. It features a stunning high-resolution Retina display with accurate colors, a comfortable Magic Keyboard, powerful speakers, and long-lasting battery life, making it ideal for software development, video editing, graphic design, and other demanding professional workflows.",
+      "id": "11"
+    },
+    {
+      "title": "Oculus Quest 2",
+      "subtitle": "VR Headsets",
+      "price": "4,999",
+      "button": "Add To Cart",
+      "image": "/src/assets/BestOffers/vrheadset.webp",
+      "description": "Oculus Quest 2 is a next-generation all-in-one virtual reality headset that delivers immersive gaming and entertainment without the need for a PC or external sensors. It offers high-resolution visuals, fast performance, intuitive motion controllers, and complete wireless freedom, allowing users to enjoy games, fitness apps, social experiences, and virtual worlds with ease and comfort.",
+      "id": "12"
+    },
+    {
+      "title": "Asus GeForce GTX 1660 Ti TUF",
+      "subtitle": "Graphics Cards",
+      "price": "3,499",
+      "button": "Add To Cart",
+      "image": "/src/assets/BestOffers/asus.avif",
+      "description": "The Asus GeForce GTX 1660 Ti TUF graphics card is built for reliable high-performance gaming and creative tasks. It features efficient cooling technology, durable TUF components, and optimized power efficiency to deliver smooth frame rates, enhanced visuals, and stable performance for modern games, video editing, and 3D rendering workloads.",
+      "id": "13"
+    },
+    {
+      "title": "Samsung Neo QLED 55QN85A",
+      "subtitle": "OLED TV",
+      "price": "49,499",
+      "button": "Add To Cart",
+      "image": "/src/assets/BestOffers/samsung.jpg",
+      "description": "Samsung Neo QLED 55QN85A is a premium 55-inch Smart TV that combines Mini-LED technology with stunning 4K resolution for ultra-bright visuals and deep contrast. It delivers lifelike colors, smooth motion, immersive sound, and smart features that provide access to streaming apps, gaming modes, and voice assistants, making it perfect for movies, sports, and home entertainment.",
+      "id": "14"
+    },
+    {
+      "title": "LG FH4G1BCS2",
+      "subtitle": "Washing Machines",
+      "price": "52,499",
+      "button": "Add To Cart",
+      "image": "/src/assets/BestOffers/wash.jpg",
+      "description": "LG FH4G1BCS2 is a fully automatic washing machine designed to deliver powerful yet gentle fabric care. It comes with multiple intelligent wash programs, energy-efficient performance, a high-quality motor for long-term durability, and advanced cleaning technology that removes tough stains while protecting clothes, making daily laundry convenient and efficient.",
+      "id": "15"
+    }
+  ],
+  "NewGoods": [
+    {
+      "title": "Acer ConceptD 7 Ezel",
+      "subtitle": "Business Laptop",
+      "price": "49,999",
+      "button": "Add To Cart",
+      "images": "/src/assets/NewGoods/acer.jpg",
+      "description": "Acer ConceptD 7 Ezel is a premium business and creator-focused laptop designed for professionals who demand power and flexibility. It features a high-performance processor, a stunning color-accurate display, and a durable convertible design that supports multiple usage modes, making it ideal for business productivity, content creation, and multitasking.",
+      "rating": 4.8,
+      "id": "21"
+    },
+    {
+      "title": "Acer ConceptD 7 Ezel",
+      "subtitle": "Business Laptop",
+      "price": "49,999",
+      "button": "Add To Cart",
+      "images": "/src/assets/NewGoods/cpu.jpg",
+      "description": "This variant of the Acer ConceptD 7 Ezel delivers exceptional performance for demanding business tasks and creative workloads. With powerful hardware, efficient cooling, and professional-grade build quality, it ensures smooth performance for presentations, design work, and everyday professional use.",
+      "rating": 4.7,
+      "id": "22"
+    },
+    {
+      "title": "Acer ConceptD 7 Ezel",
+      "subtitle": "Business Laptop",
+      "price": "49,999",
+      "button": "Add To Cart",
+      "images": "/src/assets/NewGoods/acer1.jpg",
+      "description": "Designed for professionals and creators, the Acer ConceptD 7 Ezel offers excellent multitasking capabilities, fast processing speeds, and a sleek, modern design. Its high-resolution display and premium construction make it suitable for office work, graphic design, and advanced computing needs.",
+      "rating": 4.6,
+      "id": "23"
+    },
+    {
+      "title": "Acer ConceptD 7 Ezel",
+      "subtitle": "Business Laptop",
+      "price": "49,999",
+      "button": "Add To Cart",
+      "images": "/src/assets/NewGoods/acer2.jpg",
+      "description": "The Acer ConceptD 7 Ezel combines performance, portability, and versatility in a professional laptop. Built to handle intensive workloads, it provides a smooth user experience with reliable performance, long-lasting durability, and a premium look that fits perfectly in business and creative environments.",
+      "rating": 4.9,
+      "id": "24"
+    }
+  ],
+  "AppleShoppingEvent": [
+    {
+      "image": "/src/assets/AppleShoppingEvent/ipadmini.jpg",
+      "title": "iPad Mini",
+      "price": "39,999",
+      "button": "Add To Cart",
+      "description": "iPad Mini is a compact yet powerful tablet featuring a high-resolution Retina display, fast performance, and excellent portability. It is perfect for reading, note-taking, entertainment, online classes, and light productivity tasks on the go.",
+      "rating": 4.6,
+      "id": "1"
+    },
+    {
+      "image": "/src/assets/AppleShoppingEvent/applewatch.jpg",
+      "title": "Apple Watch",
+      "price": "19,999",
+      "button": "Add To Cart",
+      "description": "Apple Watch is a smart and stylish wearable that helps you stay connected, track your fitness, and monitor your health throughout the day. It offers activity tracking, heart-rate monitoring, notifications, and seamless integration with your iPhone.",
+      "rating": 4.7,
+      "id": "2"
+    },
+    {
+      "image": "/src/assets/AppleShoppingEvent/macbook.png",
+      "title": "Apple MacBook",
+      "price": "79,999",
+      "button": "Add To Cart",
+      "description": "Apple MacBook delivers powerful performance in a sleek and lightweight design. With a vibrant Retina display, long battery life, and smooth macOS experience, it is ideal for students, professionals, and everyday productivity tasks.",
+      "rating": 4.8,
+      "id": "3"
+    },
+    {
+      "image": "/src/assets/AppleShoppingEvent/phone.webp",
+      "title": "Apple iPhone 14",
+      "price": "89,999",
+      "button": "Add To Cart",
+      "description": "Apple iPhone 14 features a powerful processor, advanced camera system, stunning display, and enhanced security features. It delivers smooth performance, excellent photography, and a premium smartphone experience for daily use.",
+      "rating": 4.9,
+      "id": "4"
+    },
+    {
+      "image": "/src/assets/AppleShoppingEvent/imac24.jpg",
+      "title": "Apple iMac 24",
+      "price": "59,999",
+      "button": "Add To Cart",
+      "description": "Apple iMac 24 is an all-in-one desktop computer with a brilliant 4.5K Retina display, impressive performance, and a slim modern design. It is perfect for creative work, office productivity, and home computing needs.",
+      "rating": 4.7,
+      "id": "5"
+    }
+  ],
+  "HomeApplication": [
+    {
+      "image": "/src/assets/HomeAppliance/ariete09.jpg",
+      "title": "ARIETE 0979",
+      "subtitle": "Ovens",
+      "price": "5,999",
+      "button": "Add To Cart",
+      "description": "ARIETE 0979 oven is a compact and efficient kitchen appliance designed for quick and even cooking. It offers reliable heating performance, user-friendly controls, and a stylish design that fits perfectly in modern kitchens, making it ideal for baking, grilling, and everyday cooking needs.",
+      "rating": 4.5,
+      "id": "64d1"
+    },
+    {
+      "image": "/src/assets/HomeAppliance/ariete98.jpg",
+      "title": "ARIETE 986",
+      "subtitle": "Ovens",
+      "price": "3,999",
+      "button": "Add To Cart",
+      "description": "ARIETE 986 oven delivers consistent cooking results with efficient heat distribution and easy temperature control. Its compact size and durable build make it suitable for small kitchens, apartments, and everyday home use.",
+      "rating": 4.3,
+      "id": "2392"
+    },
+    {
+      "image": "/src/assets/HomeAppliance/bamix200.webp",
+      "title": "Bamix DeLuxe M200",
+      "subtitle": "Blenders",
+      "price": "9,999",
+      "button": "Add To Cart",
+      "description": "Bamix DeLuxe M200 is a powerful hand blender designed for smooth blending, chopping, and mixing. It features a high-performance motor, precision blades, and ergonomic design, making it perfect for soups, smoothies, sauces, and everyday kitchen tasks.",
+      "rating": 4.7,
+      "id": "9d52"
+    },
+    {
+      "image": "/src/assets/HomeAppliance/bamix202.webp",
+      "title": "Bamix Luxurylin M200",
+      "subtitle": "Blenders",
+      "price": "7,999",
+      "button": "Add To Cart",
+      "description": "Bamix Luxurylin M200 offers reliable blending performance with a stylish design and durable construction. It ensures smooth and consistent results for blending, whipping, and mixing, making it a versatile appliance for modern kitchens.",
+      "rating": 4.6,
+      "id": "fd23"
+    },
+    {
+      "image": "/src/assets/HomeAppliance/bosch.avif",
+      "title": "Bosch KUW20VHF0G",
+      "subtitle": "Fridges",
+      "price": "15,999",
+      "button": "Add To Cart",
+      "description": "Bosch KUW20VHF0G refrigerator is designed to deliver efficient cooling with advanced temperature control and energy-saving technology. It offers ample storage space, durable shelves, and a sleek design that keeps food fresh while enhancing your kitchen’s look.",
+      "rating": 4.8,
+      "id": "0111"
+    }
+  ],
+  "MicroSoft": [
+    {
+      "image": "src/assets/MicroSoft/phone.jpg",
+      "title": "Xiaomi MI 11",
+      "subtitle": "Discount up to 30%",
+      "button": "View Details",
+      "id": "e9c5"
+    },
+    {
+      "image": "src/assets/MicroSoft/hp.avif",
+      "title": "HP Laser Jet",
+      "subtitle": "Personal printer",
+      "button": "View Details",
+      "id": "45d1"
+    },
+    {
+      "image": "src/assets/MicroSoft/joy.png",
+      "title": "White Joy Cons",
+      "subtitle": "Long-awaited novelty",
+      "button": "View Details",
+      "id": "bf50"
+    }
+  ],
+  "Footer": [
+    {
+      "maintitle": "Shop Ease",
+      "subtitle": "Condimentum adipiscing vel neque dis nam parturient orci at scelerisque.",
+      "title1": "Address",
+      "address": "Madhapur ,Hyderabad",
+      "phone": "Call Us +91 6749753826",
+      "email": "example@gmail.com",
+      "image11": "src/assets/Footer/facebook.svg",
+      "image12": "src/assets/Footer/instagram.svg",
+      "image13": "src/assets/Footer/twitter.svg",
+      "image14": "src/assets/Footer/youtube.svg",
+      "id": "50f9"
+    },
+    {
+      "title": "Categories",
+      "subtitle1": "Smartphones",
+      "subtitle2": "Laptops",
+      "subtitle3": "Hardware",
+      "subtitle4": "Cameras",
+      "subtitle5": "Headphones",
+      "subtitle6": "Bathroom",
+      "id": "f4f1"
+    },
+    {
+      "title": "Useful Links",
+      "subtitle1": "Promotions",
+      "subtitle2": "Stores",
+      "subtitle3": "Our contacts",
+      "subtitle4": "Delivery & Return",
+      "subtitle5": "Outlet",
+      "id": "63b7"
+    },
+    {
+      "title": "Blog",
+      "subtitle1": "Our contacts",
+      "subtitle2": "Promotions",
+      "subtitle3": "Stores",
+      "subtitle4": "Delivery & Return",
+      "id": "cdad"
+    }
+  ],
+  "signUp": [
+    {
+      "id": "e67c",
+      "name": "RAJESH KOPPISETTY",
+      "email": "rajeshkoppisetty12@gmail.com",
+      "mobile": "7989999241",
+      "password": "Rajesh@123",
+      "confirmPassword": "Rajesh@123"
+    },
+    {
+      "id": "e5f0",
+      "name": "",
+      "email": "rajeshkoppisetty12@gmail.com",
+      "mobile": "",
+      "password": "Rajesh@123",
+      "confirmPassword": ""
+    },
+    {
+      "id": "7ea7",
+      "name": "",
+      "email": "",
+      "mobile": "",
+      "password": "",
+      "confirmPassword": ""
+    },
+    {
+      "id": "ea1e",
+      "name": "",
+      "email": "",
+      "mobile": "",
+      "password": "",
+      "confirmPassword": ""
+    },
+    {
+      "id": "deab",
+      "name": "",
+      "email": "",
+      "mobile": "",
+      "password": "",
+      "confirmPassword": ""
+    },
+    {
+      "id": "0ae5",
+      "name": "",
+      "email": "",
+      "mobile": "",
+      "password": "",
+      "confirmPassword": ""
+    },
+    {
+      "id": "5432",
+      "name": "",
+      "email": "",
+      "mobile": "",
+      "password": "",
+      "confirmPassword": ""
+    },
+    {
+      "id": "e4d1",
+      "name": "",
+      "email": "",
+      "mobile": "",
+      "password": "",
+      "confirmPassword": ""
+    },
+    {
+      "id": "b8fe",
+      "name": "",
+      "email": "rajeshkoppisetty12@gmail.com",
+      "mobile": "",
+      "password": "Rajesh@123",
+      "confirmPassword": ""
+    },
+    {
+      "id": "609e",
+      "name": "",
+      "email": "rajeshkoppisetty12@gmail.com",
+      "mobile": "",
+      "password": "Rajesh@123",
+      "confirmPassword": ""
+    },
+    {
+      "id": "87da",
+      "name": "RAJESH KOPPISETTY",
+      "email": "rajeshkoppisetty12@gmail.com",
+      "mobile": "7989999241",
+      "password": "Rajesh@123",
+      "confirmPassword": "Rajesh@123"
+    },
+    {
+      "id": "781a",
+      "name": "",
+      "email": "rajeshrocky1432@gmail.com",
+      "mobile": "",
+      "password": "Rajesh@123",
+      "confirmPassword": ""
+    },
+    {
+      "id": "9eb0",
+      "name": "",
+      "email": "rajeshkoppisetty12@gmail.com",
+      "mobile": "",
+      "password": "Rajesh@123",
+      "confirmPassword": ""
+    }
+  ],
+  "promotions": [
+    {
+      "date": "24 Nov - 2 Dec",
+      "title": "Apple Shopping Event",
+      "image": "/src/assets/Promotions/apple.webp",
+      "id": "5370"
+    },
+    {
+      "date": "10 Nov - 28 Nov",
+      "title": "Pre-Order Google Pixel 7",
+      "image": "/src/assets/Promotions/google.webp",
+      "id": "6d05"
+    },
+    {
+      "date": "10 Nov - 28 Nov",
+      "title": "All Smart application up to 25",
+      "image": "/src/assets/Promotions/smart.webp",
+      "id": "7859"
+    },
+    {
+      "date": "20 Oct - 05 Nov",
+      "title": "New Aurora Headset",
+      "image": "/src/assets/Promotions/headset.jpg",
+      "id": "7fe4"
+    },
+    {
+      "date": "15 Oct - 25 Oct",
+      "title": "DualSense Discount",
+      "image": "/src/assets/Promotions/game.webp",
+      "id": "3b27"
+    },
+    {
+      "date": "12 Oct - 28 Oct",
+      "title": "Gift Photo Paper For Instant Cameras",
+      "image": "/src/assets/Promotions/camera.webp",
+      "id": "0b38"
+    },
+    {
+      "date": "10 Oct - 18 Oct",
+      "title": "Discount Nothing Phone",
+      "image": "/src/assets/Promotions/nothing.webp",
+      "id": "aab5"
+    },
+    {
+      "date": "27 sep - 15 Oct",
+      "title": "Discount Xiaomi mi 11",
+      "image": "/src/assets/Promotions/mi.webp",
+      "id": "0c77"
+    },
+    {
+      "date": "25 Sep - 10 Oct",
+      "title": "Discount for new 7000 Procesors",
+      "image": "/src/assets/Promotions/processor.webp",
+      "id": "55f9"
+    }
+  ],
+  "cart": [
+    {
+      "id": "f8d9",
+      "title": "Samsung Neo QLED 55QN85A",
+      "subtitle": "OLED TV",
+      "price": "49,499",
+      "button": "Add To Cart",
+      "image": "/src/assets/BestOffers/samsung.jpg",
+      "description": "Samsung Neo QLED 55QN85A is a premium 55-inch Smart TV that combines Mini-LED technology with stunning 4K resolution for ultra-bright visuals and deep contrast. It delivers lifelike colors, smooth motion, immersive sound, and smart features that provide access to streaming apps, gaming modes, and voice assistants, making it perfect for movies, sports, and home entertainment.",
+      "quantity": 1,
+      "cartId": 1767552269486
+    },
+    {
+      "id": "dab2",
+      "title": "Asus GeForce GTX 1660 Ti TUF",
+      "subtitle": "Graphics Cards",
+      "price": "3,499",
+      "button": "Add To Cart",
+      "image": "/src/assets/BestOffers/asus.avif",
+      "description": "The Asus GeForce GTX 1660 Ti TUF graphics card is built for reliable high-performance gaming and creative tasks. It features efficient cooling technology, durable TUF components, and optimized power efficiency to deliver smooth frame rates, enhanced visuals, and stable performance for modern games, video editing, and 3D rendering workloads.",
+      "quantity": 2,
+      "cartId": 1767552935945
+    },
+    {
+      "id": "dab2",
+      "title": "Asus GeForce GTX 1660 Ti TUF",
+      "subtitle": "Graphics Cards",
+      "price": "3,499",
+      "button": "Add To Cart",
+      "image": "/src/assets/BestOffers/asus.avif",
+      "description": "The Asus GeForce GTX 1660 Ti TUF graphics card is built for reliable high-performance gaming and creative tasks. It features efficient cooling technology, durable TUF components, and optimized power efficiency to deliver smooth frame rates, enhanced visuals, and stable performance for modern games, video editing, and 3D rendering workloads.",
+      "quantity": 1,
+      "cartId": 1767552983074
+    },
+    {
+      "id": "dab2",
+      "title": "Asus GeForce GTX 1660 Ti TUF",
+      "subtitle": "Graphics Cards",
+      "price": "3,499",
+      "button": "Add To Cart",
+      "image": "/src/assets/BestOffers/asus.avif",
+      "description": "The Asus GeForce GTX 1660 Ti TUF graphics card is built for reliable high-performance gaming and creative tasks. It features efficient cooling technology, durable TUF components, and optimized power efficiency to deliver smooth frame rates, enhanced visuals, and stable performance for modern games, video editing, and 3D rendering workloads.",
+      "quantity": 1,
+      "cartId": 1767553004563
+    },
+    {
+      "id": "dab2",
+      "title": "Asus GeForce GTX 1660 Ti TUF",
+      "subtitle": "Graphics Cards",
+      "price": "3,499",
+      "button": "Add To Cart",
+      "image": "/src/assets/BestOffers/asus.avif",
+      "description": "The Asus GeForce GTX 1660 Ti TUF graphics card is built for reliable high-performance gaming and creative tasks. It features efficient cooling technology, durable TUF components, and optimized power efficiency to deliver smooth frame rates, enhanced visuals, and stable performance for modern games, video editing, and 3D rendering workloads.",
+      "quantity": 4,
+      "cartId": 1767554133600
+    },
+    {
+      "id": "5d0b",
+      "title": "Apple MacBook Pro 16",
+      "subtitle": "Apple MacBook",
+      "price": "79,499",
+      "button": "Add To Cart",
+      "image": "/src/assets/BestOffers/macbook.jpeg",
+      "description": "Apple MacBook Pro 16 is a premium professional laptop powered by Apple’s advanced M-series chipset, delivering exceptional speed, smooth multitasking, and outstanding energy efficiency. It features a stunning high-resolution Retina display with accurate colors, a comfortable Magic Keyboard, powerful speakers, and long-lasting battery life, making it ideal for software development, video editing, graphic design, and other demanding professional workflows.",
+      "quantity": 4,
+      "cartId": 1767767272597
+    },
+    {
+      "id": "5d0b",
+      "title": "Apple MacBook Pro 16",
+      "subtitle": "Apple MacBook",
+      "price": "79,499",
+      "button": "Add To Cart",
+      "image": "/src/assets/BestOffers/macbook.jpeg",
+      "description": "Apple MacBook Pro 16 is a premium professional laptop powered by Apple’s advanced M-series chipset, delivering exceptional speed, smooth multitasking, and outstanding energy efficiency. It features a stunning high-resolution Retina display with accurate colors, a comfortable Magic Keyboard, powerful speakers, and long-lasting battery life, making it ideal for software development, video editing, graphic design, and other demanding professional workflows.",
+      "quantity": 3,
+      "cartId": 1767767419641
+    },
+    {
+      "id": "5d0b",
+      "title": "Apple MacBook Pro 16",
+      "subtitle": "Apple MacBook",
+      "price": "79,499",
+      "button": "Add To Cart",
+      "image": "/src/assets/BestOffers/macbook.jpeg",
+      "description": "Apple MacBook Pro 16 is a premium professional laptop powered by Apple’s advanced M-series chipset, delivering exceptional speed, smooth multitasking, and outstanding energy efficiency. It features a stunning high-resolution Retina display with accurate colors, a comfortable Magic Keyboard, powerful speakers, and long-lasting battery life, making it ideal for software development, video editing, graphic design, and other demanding professional workflows.",
+      "quantity": 1,
+      "cartId": 1767770710509
+    },
+    {
+      "id": "5d0b",
+      "title": "Apple MacBook Pro 16",
+      "subtitle": "Apple MacBook",
+      "price": "79,499",
+      "button": "Add To Cart",
+      "image": "/src/assets/BestOffers/macbook.jpeg",
+      "description": "Apple MacBook Pro 16 is a premium professional laptop powered by Apple’s advanced M-series chipset, delivering exceptional speed, smooth multitasking, and outstanding energy efficiency. It features a stunning high-resolution Retina display with accurate colors, a comfortable Magic Keyboard, powerful speakers, and long-lasting battery life, making it ideal for software development, video editing, graphic design, and other demanding professional workflows.",
+      "quantity": 2,
+      "cartId": 1769494893255
+    },
+    {
+      "id": "5d0b",
+      "title": "Apple MacBook Pro 16",
+      "subtitle": "Apple MacBook",
+      "price": "79,499",
+      "button": "Add To Cart",
+      "image": "/src/assets/BestOffers/macbook.jpeg",
+      "description": "Apple MacBook Pro 16 is a premium professional laptop powered by Apple’s advanced M-series chipset, delivering exceptional speed, smooth multitasking, and outstanding energy efficiency. It features a stunning high-resolution Retina display with accurate colors, a comfortable Magic Keyboard, powerful speakers, and long-lasting battery life, making it ideal for software development, video editing, graphic design, and other demanding professional workflows.",
+      "quantity": 2,
+      "cartId": 1770366930732
+    },
+    {
+      "id": "5d0b",
+      "title": "Apple MacBook Pro 16",
+      "subtitle": "Apple MacBook",
+      "price": "79,499",
+      "button": "Add To Cart",
+      "image": "/src/assets/BestOffers/macbook.jpeg",
+      "description": "Apple MacBook Pro 16 is a premium professional laptop powered by Apple’s advanced M-series chipset, delivering exceptional speed, smooth multitasking, and outstanding energy efficiency. It features a stunning high-resolution Retina display with accurate colors, a comfortable Magic Keyboard, powerful speakers, and long-lasting battery life, making it ideal for software development, video editing, graphic design, and other demanding professional workflows.",
+      "quantity": 1,
+      "cartId": 1772277705916
+    },
+    {
+      "id": "64d1",
+      "image": "/src/assets/HomeAppliance/ariete09.jpg",
+      "title": "ARIETE 0979",
+      "subtitle": "Ovens",
+      "price": "5,999",
+      "button": "Add To Cart",
+      "description": "ARIETE 0979 oven is a compact and efficient kitchen appliance designed for quick and even cooking. It offers reliable heating performance, user-friendly controls, and a stylish design that fits perfectly in modern kitchens, making it ideal for baking, grilling, and everyday cooking needs.",
+      "rating": 4.5,
+      "quantity": 1,
+      "cartId": 1772277864199
+    },
+    {
+      "id": "4244",
+      "image": "/src/assets/AppleShoppingEvent/ipadmini.jpg",
+      "title": "iPad Mini",
+      "price": "39,999",
+      "button": "Add To Cart",
+      "description": "iPad Mini is a compact yet powerful tablet featuring a high-resolution Retina display, fast performance, and excellent portability. It is perfect for reading, note-taking, entertainment, online classes, and light productivity tasks on the go.",
+      "rating": 4.6,
+      "quantity": 1,
+      "cartId": 1772278104183
+    },
+    {
+      "id": "1a48",
+      "title": "Acer ConceptD 7 Ezel",
+      "subtitle": "Business Laptop",
+      "price": "49,999",
+      "button": "Add To Cart",
+      "images": "/src/assets/NewGoods/acer.jpg",
+      "description": "Acer ConceptD 7 Ezel is a premium business and creator-focused laptop designed for professionals who demand power and flexibility. It features a high-performance processor, a stunning color-accurate display, and a durable convertible design that supports multiple usage modes, making it ideal for business productivity, content creation, and multitasking.",
+      "rating": 4.8,
+      "quantity": 6
+    },
+    {
+      "id": "5d0b",
+      "title": "Apple MacBook Pro 16",
+      "subtitle": "Apple MacBook",
+      "price": "79,499",
+      "button": "Add To Cart",
+      "image": "/src/assets/BestOffers/macbook.jpeg",
+      "description": "Apple MacBook Pro 16 is a premium professional laptop powered by Apple’s advanced M-series chipset, delivering exceptional speed, smooth multitasking, and outstanding energy efficiency. It features a stunning high-resolution Retina display with accurate colors, a comfortable Magic Keyboard, powerful speakers, and long-lasting battery life, making it ideal for software development, video editing, graphic design, and other demanding professional workflows.",
+      "quantity": 1,
+      "cartId": 1772278375838
+    },
+    {
+      "id": "5d0b",
+      "title": "Apple MacBook Pro 16",
+      "subtitle": "Apple MacBook",
+      "price": "79,499",
+      "button": "Add To Cart",
+      "image": "/src/assets/BestOffers/macbook.jpeg",
+      "description": "Apple MacBook Pro 16 is a premium professional laptop powered by Apple’s advanced M-series chipset, delivering exceptional speed, smooth multitasking, and outstanding energy efficiency. It features a stunning high-resolution Retina display with accurate colors, a comfortable Magic Keyboard, powerful speakers, and long-lasting battery life, making it ideal for software development, video editing, graphic design, and other demanding professional workflows.",
+      "quantity": 2,
+      "cartId": 1772295105591
+    },
+    {
+      "id": "2",
+      "title": "Laptop",
+      "image": "/src/assets/PopularCategories/laptop.webp",
+      "price": "88,999",
+      "description": "High-performance laptop designed for work, creativity, and entertainment with a sleek and portable design.",
+      "quantity": 8
+    },
+    {
+      "id": "1",
+      "title": "Iphone",
+      "image": "/src/assets/PopularCategories/iphone.webp",
+      "price": "78,999",
+      "description": "Premium Apple smartphone with powerful performance, advanced camera system, and seamless iOS experience.",
+      "quantity": 6
+    },
+    {
+      "id": "1",
+      "image": "/src/assets/AppleShoppingEvent/ipadmini.jpg",
+      "title": "iPad Mini",
+      "price": "39,999",
+      "button": "Add To Cart",
+      "description": "iPad Mini is a compact yet powerful tablet featuring a high-resolution Retina display, fast performance, and excellent portability. It is perfect for reading, note-taking, entertainment, online classes, and light productivity tasks on the go.",
+      "rating": 4.6,
+      "quantity": 1,
+      "cartId": 1777218326732
+    },
+    {
+      "id": "24",
+      "title": "Acer ConceptD 7 Ezel",
+      "subtitle": "Business Laptop",
+      "price": "49,999",
+      "button": "Add To Cart",
+      "images": "/src/assets/NewGoods/acer2.jpg",
+      "description": "The Acer ConceptD 7 Ezel combines performance, portability, and versatility in a professional laptop. Built to handle intensive workloads, it provides a smooth user experience with reliable performance, long-lasting durability, and a premium look that fits perfectly in business and creative environments.",
+      "rating": 4.9,
+      "quantity": 2
+    },
+    {
+      "id": "1",
+      "image": "/src/assets/AppleShoppingEvent/ipadmini.jpg",
+      "title": "iPad Mini",
+      "price": "39,999",
+      "button": "Add To Cart",
+      "description": "iPad Mini is a compact yet powerful tablet featuring a high-resolution Retina display, fast performance, and excellent portability. It is perfect for reading, note-taking, entertainment, online classes, and light productivity tasks on the go.",
+      "rating": 4.6,
+      "quantity": 1,
+      "cartId": 1777222260932
+    },
+    {
+      "id": "1",
+      "image": "/src/assets/AppleShoppingEvent/ipadmini.jpg",
+      "title": "iPad Mini",
+      "price": "39,999",
+      "button": "Add To Cart",
+      "description": "iPad Mini is a compact yet powerful tablet featuring a high-resolution Retina display, fast performance, and excellent portability. It is perfect for reading, note-taking, entertainment, online classes, and light productivity tasks on the go.",
+      "rating": 4.6,
+      "quantity": 1,
+      "cartId": 1777619012120
+    },
+    {
+      "id": "5",
+      "title": "Headsets",
+      "price": "8,999",
+      "image": "/src/assets/PopularCategories/headset.webp",
+      "description": "Comfortable audio headsets delivering clear sound, deep bass, and noise isolation for calls, music, and gaming.",
+      "quantity": 4
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

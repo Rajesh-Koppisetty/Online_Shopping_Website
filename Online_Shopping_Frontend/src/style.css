@@ -1,0 +1,118 @@
+/* * {
+  padding-left: 10px;
+  padding-right: 10px;
+} */
+
+.hero1-img {
+  /* background-color: #5b0744 !important; */
+  border-radius: 25px;
+
+}
+
+.hero1-img img {
+  border-radius: 25px;
+}
+
+.caption1-top {
+  top: 0%;
+
+}
+
+.caption1-top button {
+  border-radius: 8px;
+  color: white;
+}
+
+.caption2-top {
+  top: 0%;
+  left: 0%;
+
+}
+
+.caption2-top button {
+  border-radius: 8px;
+  color: white;
+}
+
+.caption3-top {
+  top: 0%;
+  left: 0%;
+
+}
+
+.caption3-top button {
+  border-radius: 8px;
+  color: white;
+}
+
+.parent {
+  position: relative;
+
+}
+
+.child {
+  position: absolute;
+  top: 10%;
+  left: 5%;
+  width: 100%;
+  color: white;
+}
+
+.parent img {
+  border-radius: 20px;
+}
+
+.new-good-side-parent {
+  padding-top: 100px;
+  border-radius: 10px;
+  position: relative;
+  justify-content: center;
+}
+
+.new-good-child {
+  position: absolute;
+  top: 3%;
+  left: 5%;
+  width: 100%;
+  color: white;
+}
+/* ---------------Apple Shopping-------------- */
+.apple-section{
+  background: #f7d6d0;
+}
+/* ---------------MicroSoft Shopping-------------- */
+.microsoft-left{
+ 
+
+}
+/* ----------------login section----------- */
+.login-section{
+  padding-left: 0px;
+}
+
+/* -------------------Promotion page-------------- */
+.parent-promotion {
+  position: relative;
+
+}
+
+.child-promotion {
+  position: absolute;
+  bottom: 5%;
+  left: 6%;
+  width: 100%;
+  color: white;
+}
+/* ................................stores page.................... */
+.parent-stores {
+  position: relative;
+
+}
+
+.child-stores {
+  position: absolute;
+  bottom: 8%;
+  left: 10%;
+  width: 100%;
+  color: white;
+}
