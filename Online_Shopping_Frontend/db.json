@@ -3,7 +3,7 @@
     {
       "id": "1",
       "title": "Iphone",
-      "image": "/src/assets/PopularCategories/iphone.webp",
+      "image": "/assets/PopularCategories/iphone.webp",
       "price": "78,999",
       "description": "Premium Apple smartphone with powerful performance, advanced camera system, and seamless iOS experience."
     },
