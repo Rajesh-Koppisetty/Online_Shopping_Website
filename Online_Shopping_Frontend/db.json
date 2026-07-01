@@ -38,13 +38,13 @@
     {
       "id": "6",
       "title": "Drones",
-      "image": "src/assets/PopularCategories/drones.webp",
+      "image": "/assets/PopularCategories/drones.webp",
       "description": "Advanced flying drones equipped with high-resolution cameras and smart flight modes for aerial photography."
     },
     {
       "id": "7",
       "title": "Apple Ipad",
-      "image": "src/assets/PopularCategories/apple.webp",
+      "image": "/assets/PopularCategories/apple.webp",
       "description": "Versatile Apple tablet with a stunning display, powerful performance, and support for Apple Pencil and accessories."
     }
   ],
@@ -238,21 +238,21 @@
   ],
   "MicroSoft": [
     {
-      "image": "src/assets/MicroSoft/phone.jpg",
+      "image": "/assets/MicroSoft/phone.jpg",
       "title": "Xiaomi MI 11",
       "subtitle": "Discount up to 30%",
       "button": "View Details",
       "id": "e9c5"
     },
     {
-      "image": "src/assets/MicroSoft/hp.avif",
+      "image": "/assets/MicroSoft/hp.avif",
       "title": "HP Laser Jet",
       "subtitle": "Personal printer",
       "button": "View Details",
       "id": "45d1"
     },
     {
-      "image": "src/assets/MicroSoft/joy.png",
+      "image": "/assets/MicroSoft/joy.png",
       "title": "White Joy Cons",
       "subtitle": "Long-awaited novelty",
       "button": "View Details",
@@ -267,10 +267,10 @@
       "address": "Madhapur ,Hyderabad",
       "phone": "Call Us +91 6749753826",
       "email": "example@gmail.com",
-      "image11": "src/assets/Footer/facebook.svg",
-      "image12": "src/assets/Footer/instagram.svg",
-      "image13": "src/assets/Footer/twitter.svg",
-      "image14": "src/assets/Footer/youtube.svg",
+      "image11": "/assets/Footer/facebook.svg",
+      "image12": "/assets/Footer/instagram.svg",
+      "image13": "/assets/Footer/twitter.svg",
+      "image14": "/assets/Footer/youtube.svg",
       "id": "50f9"
     },
     {
