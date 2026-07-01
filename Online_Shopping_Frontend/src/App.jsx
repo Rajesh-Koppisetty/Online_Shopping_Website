@@ -37,9 +37,9 @@ function App() {
 
 
       <Routes>
-      <Route path="/" element={<SignIn />} />
+      <Route path="/signin" element={<SignIn />} />
         <Route
-          path="/home"
+          path="/"
           element={
             <>
               <NavBar search={search} setSearch={setSearch} />
